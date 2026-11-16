@@ -23,7 +23,8 @@ streamlit run app.py
 ```
 
 ## Live demo
-Add your Streamlit link here after deploying.
+https://travel-recommendation-system-do2za9ytc4zkofbscygwg8.streamlit.app/
+
 
 ## Tech
 Python, pandas, scikit-learn, seaborn, matplotlib, plotly, Streamlit.
